@@ -1,0 +1,17 @@
+<Accounts MessageId="061CBMAVREQ011220231" Source="PFMS" Destination="061" BankCode="061" BankName="SAURASHTRA GRAMIN BANK" RecordsCount="3" xmlns="http://pfms.com/AccountValidationRequest">
+  <Account>
+    <AccountNumber>78041408615</AccountNumber>
+    <EntityCode>CBM17848613277</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>78041408659</AccountNumber>
+    <EntityCode>CBM17848613278</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>78041455021</AccountNumber>
+    <EntityCode>CBM17848613279</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+</Accounts>

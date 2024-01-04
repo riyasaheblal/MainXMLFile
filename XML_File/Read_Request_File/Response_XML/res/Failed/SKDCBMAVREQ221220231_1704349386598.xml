@@ -1,0 +1,37 @@
+<Accounts MessageId="SKDCBMAVREQ221220231" Source="PFMS" Destination="SKD" BankCode="SKD" BankName="Sabarkantha District Central Cooperative Bank Limited" RecordsCount="7" xmlns="http://pfms.com/AccountValidationRequest">
+  <Account>
+    <AccountNumber>615056071350</AccountNumber>
+    <EntityCode>CBM17866096866</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>615053008877</AccountNumber>
+    <EntityCode>CBM17866097119</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>115008394746</AccountNumber>
+    <EntityCode>CBM17866101144</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>115001839252</AccountNumber>
+    <EntityCode>CBM17866101681</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>115006594431</AccountNumber>
+    <EntityCode>CBM17866103246</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>115004069662</AccountNumber>
+    <EntityCode>CBM17866106545</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+  <Account>
+    <AccountNumber>615053008196</AccountNumber>
+    <EntityCode>CBM17866107260</EntityCode>
+    <DataRequired>N</DataRequired>
+  </Account>
+</Accounts>
